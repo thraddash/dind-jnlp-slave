@@ -1,0 +1,1 @@
+# dind-jnlp-slave
